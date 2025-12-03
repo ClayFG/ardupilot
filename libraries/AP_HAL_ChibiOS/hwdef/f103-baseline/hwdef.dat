@@ -1,1 +1,3 @@
 include ../f103-periph/hwdef.inc
+
+env AP_PERIPH 1
